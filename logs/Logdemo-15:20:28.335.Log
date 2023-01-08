@@ -1,0 +1,27 @@
+15:20:28.331 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+15:20:28.332 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+15:20:28.333 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:20:28.334 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+15:20:28.335 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:20:28.335 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+15:20:28.335 [main] INFO  com.solvd.itcompany.Runner - Parameters: 

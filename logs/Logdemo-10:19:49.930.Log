@@ -1,0 +1,39 @@
+10:19:49.925 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+10:19:49.927 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+10:19:49.927 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+10:19:49.927 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+10:19:49.927 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+10:19:49.927 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+10:19:49.928 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+10:19:49.928 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+10:19:49.928 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+10:19:49.928 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+10:19:49.928 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+10:19:49.929 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+10:19:49.929 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+10:19:49.929 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+10:19:49.929 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS
+10:19:49.929 [main] INFO  com.solvd.itcompany.employees.ProjectManager - The project manager is creating the project plan...
+
+10:19:49.929 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Gantt chart
+10:19:49.929 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Communications plan
+10:19:49.929 [main] INFO  com.solvd.itcompany.employees.ProjectManager - 
+The the Project Manager is done managing the application.
+
+10:19:49.929 [main] INFO  com.solvd.itcompany.employees.Designer - The designer is creating the design of the application...
+

@@ -1,0 +1,44 @@
+10:07:52.177 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:07:52.183 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+10:07:52.184 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+10:07:52.185 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+10:07:52.185 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+10:07:52.189 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+10:07:52.189 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+10:07:52.189 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+10:07:52.190 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+10:07:52.190 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+10:07:52.190 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+10:07:52.190 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+10:07:52.190 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+10:07:52.191 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+10:07:52.191 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+10:07:52.191 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+10:07:52.192 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS

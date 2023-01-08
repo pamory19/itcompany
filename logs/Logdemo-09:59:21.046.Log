@@ -1,0 +1,35 @@
+09:59:21.033 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Here are the requirements for the application: 
+09:59:21.037 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+09:59:21.037 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+09:59:21.037 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+09:59:21.038 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+09:59:21.042 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+09:59:21.043 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+09:59:21.044 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+09:59:21.044 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+09:59:21.045 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+09:59:21.045 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+09:59:21.045 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+09:59:21.045 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+09:59:21.045 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+09:59:21.046 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.

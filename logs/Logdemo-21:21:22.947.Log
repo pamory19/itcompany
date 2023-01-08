@@ -1,0 +1,55 @@
+21:21:22.940 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+21:21:22.942 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+21:21:22.943 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+David
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+21:21:22.944 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+21:21:22.945 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+21:21:22.946 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+21:21:22.946 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+21:21:22.946 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]

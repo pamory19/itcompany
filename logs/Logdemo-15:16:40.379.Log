@@ -1,0 +1,34 @@
+15:16:40.370 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+15:16:40.374 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+15:16:40.374 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+15:16:40.374 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+15:16:40.374 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:16:40.374 [main] INFO  com.solvd.itcompany.Runner - Client Name: Dave's Bakery Shop
+15:16:40.375 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the bakery shop
+15:16:40.375 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 10
+15:16:40.375 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 3000.0
+15:16:40.375 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:16:40.376 [main] INFO  com.solvd.itcompany.generics.LinkedListProject - 
+Backlog of projects: 
+New project under development: 
+Client: Paul's Coffee Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 1500.0
+Project Price: 1000.0
+Status of Project: NEW
+15:16:40.376 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Here are the requirements for the application: 
+15:16:40.376 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+15:16:40.376 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+15:16:40.377 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+15:16:40.377 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+15:16:40.377 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+15:16:40.378 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+15:16:40.378 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+15:16:40.379 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+15:16:40.379 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL

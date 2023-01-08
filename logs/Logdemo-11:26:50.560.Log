@@ -1,0 +1,52 @@
+11:26:50.545 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+11:26:50.551 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+11:26:50.551 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+11:26:50.552 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+11:26:50.552 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+11:26:50.552 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+11:26:50.552 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+11:26:50.553 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+11:26:50.553 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+11:26:50.553 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+11:26:50.553 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+11:26:50.554 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+11:26:50.554 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+11:26:50.554 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+11:26:50.554 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+11:26:50.554 [main] INFO  com.solvd.itcompany.Runner - 
+David
+11:26:50.555 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+11:26:50.555 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+11:26:50.555 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+11:26:50.555 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+11:26:50.555 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+11:26:50.556 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+11:26:50.556 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+11:26:50.557 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+11:26:50.559 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+11:26:50.560 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+11:26:50.560 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+11:26:50.560 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]

@@ -1,0 +1,38 @@
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+15:15:08.888 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+15:15:08.889 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+15:15:08.889 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+15:15:08.889 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+15:15:08.889 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+15:15:08.890 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Mid-level Engineers:---------------------
+15:15:08.890 [main] INFO  com.solvd.itcompany.Runner - [com.solvd.itcompany.employees.BackendEngineer@54bff557, com.solvd.itcompany.employees.FrontendEngineer@593aaf41]
+15:15:08.891 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+15:15:08.892 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+15:15:08.893 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+15:15:08.893 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+15:15:08.894 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David

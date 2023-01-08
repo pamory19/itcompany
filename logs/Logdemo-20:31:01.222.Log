@@ -1,0 +1,29 @@
+20:30:09.904 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.905 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+20:30:09.906 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.907 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:30:09.907 [main] INFO  com.solvd.itcompany.Runner - Result of method call: 
+20:30:09.908 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+20:30:09.908 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+20:30:09.908 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+20:30:09.908 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+20:30:09.908 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+20:31:01.216 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+20:31:01.219 [main] INFO  com.solvd.itcompany.Runner - 3
+20:31:01.220 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+20:31:01.220 [main] INFO  com.solvd.itcompany.Runner - 2

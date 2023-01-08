@@ -1,0 +1,43 @@
+22:15:10.783 [main] INFO  com.solvd.itcompany.employees.MarketingManager - email promotion
+22:15:10.784 [main] INFO  com.solvd.itcompany.employees.MarketingManager - paid social media
+22:15:10.784 [main] INFO  com.solvd.itcompany.employees.MarketingManager - 
+The the Marketing Manager is done promoting the application.
+
+22:15:10.784 [main] INFO  com.solvd.itcompany.employees.MarketingManager - 
+Status of Project: Done.
+22:15:10.785 [main] INFO  com.solvd.itcompany.generics.ProjectTracker - 
+The projects left in the backlog: [New project under development: 
+Client: Kelly's Pet Shop
+Project Service: App Development
+Project Budget: 2500.0
+Project Price: 2000.0
+Status of Project: In Backlog, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: App Development
+Project Budget: 3000.0
+Project Price: 2000.0
+Status of Project: In Backlog]
+22:15:10.786 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Here are a list of tasks for the project: 
+22:15:10.786 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the backend
+22:15:10.786 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Test the application
+22:15:10.786 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the frontend
+22:15:10.786 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the management plan for the project
+22:15:10.787 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the marketing strategy for the application
+22:15:10.787 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+22:15:10.787 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+22:15:10.788 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+22:15:10.788 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+22:15:10.788 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+22:15:10.789 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+22:15:10.789 [main] INFO  com.solvd.itcompany.ITCompany - Great app!

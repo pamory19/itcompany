@@ -1,0 +1,29 @@
+21:14:29.641 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+21:14:29.642 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:14:29.642 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:14:29.642 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:14:29.642 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:14:29.642 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+21:14:29.643 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:15:36.225 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+21:15:36.228 [main] INFO  com.solvd.itcompany.Runner - 3
+21:15:36.229 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+21:15:36.229 [main] INFO  com.solvd.itcompany.Runner - 2
+21:15:36.229 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+21:15:36.233 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+21:15:36.233 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+21:15:36.234 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+21:15:36.235 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+21:15:36.235 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+21:15:36.235 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+21:15:36.235 [main] INFO  com.solvd.itcompany.Runner - Client Name: Dave's Bakery Shop

@@ -1,0 +1,28 @@
+19:18:32.387 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:18:32.388 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:18:32.388 [main] INFO  com.solvd.itcompany.Runner - Method name: releaseApp
+19:18:32.388 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Method name: maintenance
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:18:32.389 [main] INFO  com.solvd.itcompany.Runner - Return Type: com.solvd.itcompany.enums.ProjectStatus
+19:18:32.390 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjectStatus
+19:18:32.390 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:18:32.390 [main] INFO  com.solvd.itcompany.Runner - Result of method call: 
+19:18:32.391 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+19:18:32.391 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+19:18:32.391 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+19:18:32.391 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+19:18:32.391 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+19:37:01.110 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+19:37:01.114 [main] INFO  com.solvd.itcompany.Runner - 3
+19:37:01.115 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------

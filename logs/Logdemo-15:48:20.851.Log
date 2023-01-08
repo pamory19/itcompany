@@ -1,0 +1,27 @@
+15:48:20.847 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:48:20.848 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+15:48:20.848 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:48:20.849 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+15:48:20.850 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:48:20.851 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:48:20.851 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated

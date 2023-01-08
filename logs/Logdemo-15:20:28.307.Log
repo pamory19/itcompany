@@ -1,0 +1,52 @@
+15:20:28.294 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+15:20:28.300 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+15:20:28.300 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+15:20:28.301 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+15:20:28.302 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+15:20:28.302 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+15:20:28.302 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+15:20:28.303 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+15:20:28.304 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+15:20:28.304 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+15:20:28.304 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:20:28.304 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+15:20:28.305 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+15:20:28.306 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+15:20:28.306 [main] INFO  com.solvd.itcompany.Runner - 
+David
+15:20:28.306 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+15:20:28.306 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology

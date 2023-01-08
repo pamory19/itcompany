@@ -1,0 +1,38 @@
+09:59:18.580 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+09:59:18.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+09:59:18.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+09:59:18.592 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+09:59:18.592 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+09:59:18.592 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+09:59:18.593 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+09:59:18.593 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+09:59:18.593 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+09:59:18.593 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+09:59:18.593 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+09:59:18.595 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+09:59:18.595 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+09:59:18.595 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+09:59:18.596 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS

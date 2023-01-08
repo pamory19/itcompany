@@ -1,0 +1,32 @@
+23:19:38.289 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+23:19:38.290 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+23:19:38.292 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+23:19:38.292 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+23:19:38.292 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+23:19:38.293 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+23:20:12.860 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+23:20:12.863 [main] INFO  com.solvd.itcompany.Runner - 3
+23:20:12.863 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+23:20:12.864 [main] INFO  com.solvd.itcompany.Runner - 2
+23:20:12.864 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+23:20:12.865 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+23:20:12.865 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+23:20:12.865 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+23:20:12.865 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+23:20:12.865 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+23:20:12.866 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop

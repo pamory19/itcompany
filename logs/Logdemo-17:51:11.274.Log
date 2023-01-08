@@ -1,0 +1,27 @@
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Return Type: com.solvd.itcompany.enums.ProjectStatus
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjectStatus
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.270 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+17:51:11.271 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+17:51:11.272 [main] INFO  com.solvd.itcompany.Runner - Result of method call: 
+17:51:11.274 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 

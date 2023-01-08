@@ -1,0 +1,28 @@
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - name
+21:54:48.951 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:54:48.951 [main] INFO  com.solvd.itcompany.Runner - employees
+21:54:48.951 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - clients
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - projects
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - logger
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+21:54:48.952 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:54:48.953 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+21:54:48.954 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:54:48.954 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:54:48.954 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:54:48.954 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients

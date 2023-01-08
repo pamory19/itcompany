@@ -1,0 +1,42 @@
+21:54:48.945 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------The First Task in Every Project:---------------------
+21:54:48.947 [main] INFO  com.solvd.itcompany.Runner - Create the management plan for the project
+21:54:48.948 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+21:54:48.948 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+21:54:48.948 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+21:54:48.949 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+21:54:48.949 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+21:54:48.949 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+21:54:48.949 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+21:54:48.949 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+21:54:48.949 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+21:54:48.949 [main] INFO  com.solvd.itcompany.Runner - [Horrible user experience.]
+21:54:48.950 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Next Projects To Do:---------------------
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - [New project under development: 
+Client: Kelly's Pet Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 2500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 3000.0
+Project Price: 1000.0
+Status of Project: NEW]
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Reflection:---------------------
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - The name of the constructor: com.solvd.itcompany.ITCompany
+21:54:48.950 [main] INFO  com.solvd.itcompany.Runner - The fields of the class: 
+

@@ -1,0 +1,27 @@
+15:51:45.493 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+15:51:45.494 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:51:45.494 [main] INFO  com.solvd.itcompany.Runner - logger
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:51:45.495 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:51:45.496 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+15:51:45.497 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:51:45.498 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project

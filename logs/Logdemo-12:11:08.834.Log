@@ -1,0 +1,34 @@
+12:08:56.233 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+12:08:56.233 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+12:08:56.233 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------The First Task in Every Project:---------------------
+12:08:56.234 [main] INFO  com.solvd.itcompany.Runner - Create the backend
+12:08:56.235 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+12:08:56.235 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+12:08:56.235 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+12:08:56.235 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+12:08:56.235 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+12:08:56.235 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+12:08:56.235 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+12:08:56.235 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+12:08:56.236 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+12:11:08.825 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+12:11:08.828 [main] INFO  com.solvd.itcompany.Runner - 3
+12:11:08.828 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+12:11:08.829 [main] INFO  com.solvd.itcompany.Runner - 2
+12:11:08.829 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+12:11:08.831 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+12:11:08.831 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+12:11:08.833 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+12:11:08.833 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop

@@ -1,0 +1,27 @@
+19:37:01.166 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:37:01.167 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+19:37:01.168 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+19:37:01.169 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList

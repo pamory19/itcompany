@@ -1,0 +1,39 @@
+22:12:52.622 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+22:12:52.627 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+22:12:52.628 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+22:12:52.628 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+22:12:52.628 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+22:12:52.628 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+22:12:52.628 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+22:12:52.629 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+22:12:52.630 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+22:12:52.631 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+22:12:52.631 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS
+22:12:52.631 [main] INFO  com.solvd.itcompany.employees.ProjectManager - The project manager is creating the project plan...
+
+22:12:52.631 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Gantt chart
+22:12:52.631 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Communications plan
+22:12:52.631 [main] INFO  com.solvd.itcompany.employees.ProjectManager - 
+The the Project Manager is done managing the application.
+

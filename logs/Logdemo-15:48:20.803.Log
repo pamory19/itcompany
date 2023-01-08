@@ -1,0 +1,29 @@
+15:20:28.341 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+15:20:28.342 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+15:20:28.343 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+15:20:28.343 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+15:48:20.785 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+15:48:20.789 [main] INFO  com.solvd.itcompany.Runner - 3
+15:48:20.790 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+15:48:20.790 [main] INFO  com.solvd.itcompany.Runner - 2
+15:48:20.790 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+15:48:20.797 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+15:48:20.797 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+15:48:20.798 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+15:48:20.798 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+15:48:20.798 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+15:48:20.799 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+15:48:20.800 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:48:20.800 [main] INFO  com.solvd.itcompany.Runner - Client Name: Dave's Bakery Shop
+15:48:20.800 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the bakery shop
+15:48:20.800 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 10

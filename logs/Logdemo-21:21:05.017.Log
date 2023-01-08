@@ -1,0 +1,26 @@
+21:21:05.012 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:21:05.013 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+21:21:05.013 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:21:05.013 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+21:21:05.013 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:21:05.013 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+21:21:05.014 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:21:05.014 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:21:05.014 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated
+21:21:05.014 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:21:05.014 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner - Method name: releaseApp
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:21:05.015 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Method name: maintenance
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Return Type: com.solvd.itcompany.enums.ProjectStatus
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjectStatus
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:21:05.016 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList

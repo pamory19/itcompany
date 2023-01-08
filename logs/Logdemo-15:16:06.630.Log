@@ -1,0 +1,34 @@
+15:15:08.900 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+15:15:08.901 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+15:15:08.901 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------The First Task in Every Project:---------------------
+15:15:08.901 [main] INFO  com.solvd.itcompany.Runner - Create the management plan for the project
+15:15:08.902 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+15:15:08.903 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+15:15:08.903 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+15:15:08.903 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+15:15:08.903 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+15:15:08.903 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+15:15:08.903 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+15:15:08.904 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+15:15:08.904 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+15:15:08.904 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+15:16:06.620 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+15:16:06.623 [main] INFO  com.solvd.itcompany.Runner - 3
+15:16:06.624 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+15:16:06.624 [main] INFO  com.solvd.itcompany.Runner - 2
+15:16:06.625 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+15:16:06.628 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+15:16:06.628 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------

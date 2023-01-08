@@ -1,0 +1,39 @@
+15:17:32.580 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Client Name: Dave's Bakery Shop
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the bakery shop
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 10
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 3000.0
+15:17:32.584 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:17:32.585 [main] INFO  com.solvd.itcompany.generics.LinkedListProject - 
+Backlog of projects: 
+New project under development: 
+Client: Paul's Coffee Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 1500.0
+Project Price: 1000.0
+Status of Project: NEW
+15:17:32.585 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Here are the requirements for the application: 
+15:17:32.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+15:17:32.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+15:17:32.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+15:17:32.586 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+15:17:32.586 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+15:17:32.587 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+15:17:32.587 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+15:17:32.587 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+15:17:32.587 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:17:32.588 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+15:17:32.588 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+15:17:32.588 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+15:17:32.588 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL

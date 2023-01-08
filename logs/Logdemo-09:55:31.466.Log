@@ -1,0 +1,36 @@
+09:41:28.042 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+09:41:28.044 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+09:41:28.044 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+09:41:28.056 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+09:41:28.056 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+09:41:28.060 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+09:41:28.070 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+09:41:28.070 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+09:41:28.071 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+09:41:28.089 [main] INFO  com.solvd.itcompany.Runner - null
+09:41:28.094 [main] INFO  com.solvd.itcompany.Runner - MID_LEVEL
+09:55:31.459 [main] INFO  com.solvd.itcompany.generics.LinkedListProject - 
+Backlog of projects: 
+New project under development: 
+Client: Paul's Coffee Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 1500.0
+Project Price: 1000.0
+Status of Project: NEW
+09:55:31.461 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Here are the requirements for the application: 
+09:55:31.461 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+09:55:31.461 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+09:55:31.462 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+09:55:31.462 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+09:55:31.464 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+09:55:31.465 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+09:55:31.465 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam

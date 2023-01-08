@@ -1,0 +1,33 @@
+21:18:59.138 [main] INFO  com.solvd.itcompany.Runner - [com.solvd.itcompany.employees.BackendEngineer@54bff557, com.solvd.itcompany.employees.FrontendEngineer@593aaf41]
+21:18:59.139 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+21:18:59.139 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+21:18:59.140 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+21:18:59.140 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+21:18:59.140 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+21:18:59.141 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+21:18:59.141 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+21:18:59.142 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+21:18:59.142 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+21:18:59.142 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.

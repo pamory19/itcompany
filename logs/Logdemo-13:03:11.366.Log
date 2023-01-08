@@ -1,0 +1,36 @@
+11:26:50.570 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Here are a list of tasks for the project: 
+11:26:50.571 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the backend
+11:26:50.571 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Test the application
+11:26:50.572 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the frontend
+11:26:50.572 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the management plan for the project
+11:26:50.572 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the marketing strategy for the application
+11:26:50.572 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+11:26:50.572 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+11:26:50.574 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+11:26:50.574 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+11:26:50.574 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+11:26:50.575 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+13:03:11.360 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+13:03:11.363 [main] INFO  com.solvd.itcompany.Runner - Kelly's Pet Shop
+13:03:11.363 [main] INFO  com.solvd.itcompany.Runner - create an app for the pet shop
+13:03:11.364 [main] INFO  com.solvd.itcompany.Runner - 5
+13:03:11.365 [main] INFO  com.solvd.itcompany.Runner - 2500.0

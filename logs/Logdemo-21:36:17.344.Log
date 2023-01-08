@@ -1,0 +1,33 @@
+21:36:17.337 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Mid-level Engineers:---------------------
+21:36:17.339 [main] INFO  com.solvd.itcompany.Runner - [com.solvd.itcompany.employees.BackendEngineer@54bff557, com.solvd.itcompany.employees.FrontendEngineer@593aaf41]
+21:36:17.339 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+21:36:17.340 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+21:36:17.341 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+21:36:17.342 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+21:36:17.342 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+21:36:17.343 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+21:36:17.343 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+21:36:17.343 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.

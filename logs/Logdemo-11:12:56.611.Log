@@ -1,0 +1,38 @@
+11:12:56.601 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+11:12:56.602 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+11:12:56.602 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+11:12:56.603 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+11:12:56.604 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+11:12:56.606 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+11:12:56.607 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+11:12:56.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+11:12:56.609 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+11:12:56.609 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+11:12:56.610 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+11:12:56.610 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+11:12:56.610 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.

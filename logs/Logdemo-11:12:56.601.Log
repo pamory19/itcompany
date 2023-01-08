@@ -1,0 +1,53 @@
+11:12:56.587 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+11:12:56.594 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+11:12:56.595 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+11:12:56.596 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+11:12:56.597 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+11:12:56.597 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+11:12:56.597 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+11:12:56.597 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+11:12:56.598 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+11:12:56.599 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+11:12:56.599 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+11:12:56.599 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+11:12:56.599 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+11:12:56.599 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+David
+11:12:56.600 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+11:12:56.601 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+11:12:56.601 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL

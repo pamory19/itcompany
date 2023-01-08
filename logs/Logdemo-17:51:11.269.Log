@@ -1,0 +1,27 @@
+17:51:11.265 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+17:51:11.266 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+17:51:11.266 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+17:51:11.267 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method name: releaseApp
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method name: maintenance
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+17:51:11.268 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public

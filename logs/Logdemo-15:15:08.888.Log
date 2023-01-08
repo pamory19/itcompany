@@ -1,0 +1,51 @@
+15:15:08.882 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+15:15:08.883 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+15:15:08.883 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+15:15:08.883 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+15:15:08.884 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+15:15:08.885 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+15:15:08.886 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+David
+15:15:08.887 [main] INFO  com.solvd.itcompany.Runner - 
+Quality

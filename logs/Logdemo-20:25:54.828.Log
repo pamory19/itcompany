@@ -1,0 +1,27 @@
+20:25:54.824 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Method name: maintenance
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Return Type: com.solvd.itcompany.enums.ProjectStatus
+20:25:54.825 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjectStatus
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+20:25:54.826 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Return Type: void

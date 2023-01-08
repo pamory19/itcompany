@@ -1,0 +1,29 @@
+21:59:30.047 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------List of Clients:---------------------
+21:59:30.054 [main] INFO  com.solvd.itcompany.Runner - [Paul's Coffee Shop, Kelly's Pet Shop, Dave's Bakery Shop]
+21:59:30.054 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Clients that have been in business for more than 3 years:---------------------
+21:59:30.055 [main] INFO  com.solvd.itcompany.Runner - Kelly's Pet Shop
+21:59:30.055 [main] INFO  com.solvd.itcompany.Runner - Dave's Bakery Shop
+21:59:30.055 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------List of Clients Ideas:---------------------
+21:59:30.055 [main] INFO  com.solvd.itcompany.Runner - create an app for the coffee shop
+21:59:30.055 [main] INFO  com.solvd.itcompany.Runner - create an app for the pet shop
+21:59:30.056 [main] INFO  com.solvd.itcompany.Runner - create an app for the bakery shop
+21:59:30.057 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+21:59:30.058 [main] INFO  com.solvd.itcompany.Runner - 3
+21:59:30.058 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+21:59:30.058 [main] INFO  com.solvd.itcompany.Runner - 2
+21:59:30.059 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+21:59:30.063 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+21:59:30.064 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+21:59:30.065 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+21:59:30.065 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+21:59:30.065 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+21:59:30.066 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+21:59:30.066 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+21:59:30.066 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop

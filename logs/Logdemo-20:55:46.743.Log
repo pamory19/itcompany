@@ -1,0 +1,29 @@
+20:54:53.296 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+20:54:53.297 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+20:54:53.297 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+20:54:53.297 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+20:54:53.297 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+20:55:46.731 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------List of Clients:---------------------
+20:55:46.734 [main] INFO  com.solvd.itcompany.Runner - [Paul's Coffee Shop, Kelly's Pet Shop, Dave's Bakery Shop]
+20:55:46.735 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+20:55:46.736 [main] INFO  com.solvd.itcompany.Runner - 3
+20:55:46.736 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+20:55:46.736 [main] INFO  com.solvd.itcompany.Runner - 2
+20:55:46.736 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+20:55:46.740 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+20:55:46.740 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+20:55:46.741 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+20:55:46.742 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0

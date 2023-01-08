@@ -1,0 +1,30 @@
+21:18:59.153 [main] INFO  com.solvd.itcompany.Runner - clients
+21:18:59.153 [main] INFO  com.solvd.itcompany.Runner - 2
+21:18:59.153 [main] INFO  com.solvd.itcompany.Runner - projects
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - 2
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - 2
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - logger
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - 26
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+21:18:59.154 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public final
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+21:18:59.155 [main] INFO  com.solvd.itcompany.Runner - Parameters: 

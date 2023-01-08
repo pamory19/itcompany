@@ -1,0 +1,27 @@
+21:30:46.212 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - projects
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - logger
+21:30:46.213 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+21:30:46.214 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:30:46.215 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList

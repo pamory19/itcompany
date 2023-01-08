@@ -1,0 +1,35 @@
+13:03:11.390 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the backend
+13:03:11.390 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Test the application
+13:03:11.391 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the frontend
+13:03:11.391 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the management plan for the project
+13:03:11.391 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the marketing strategy for the application
+13:03:11.391 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+13:03:11.391 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+13:03:11.393 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+13:03:11.393 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+13:03:11.393 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+13:03:11.393 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+13:03:11.393 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+13:03:11.393 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+13:03:11.394 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+13:03:11.394 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+13:03:11.394 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+13:05:12.831 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+13:05:12.835 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+13:05:12.835 [main] INFO  com.solvd.itcompany.Runner - Client Idea create an app for the pet shop
+13:05:12.835 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+13:05:12.836 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+13:05:12.836 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW

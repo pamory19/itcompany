@@ -1,0 +1,42 @@
+22:14:51.814 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+22:14:51.815 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+22:14:51.815 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+22:14:51.815 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+22:14:51.815 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+22:14:51.815 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+22:14:51.816 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+22:14:51.816 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+22:14:51.816 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+22:14:51.816 [main] INFO  com.solvd.itcompany.Runner - [Horrible user experience.]
+22:14:51.816 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+22:14:51.816 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Next Projects To Do:---------------------
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - [New project under development: 
+Client: Kelly's Pet Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 2500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 3000.0
+Project Price: 1000.0
+Status of Project: NEW]
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Reflection:---------------------
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - The name of the constructor: com.solvd.itcompany.ITCompany
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - The fields of the class: 
+
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - name
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+22:14:51.817 [main] INFO  com.solvd.itcompany.Runner - employees

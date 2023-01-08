@@ -1,0 +1,47 @@
+13:05:12.847 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+13:05:12.848 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+13:05:12.848 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+13:05:12.848 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+13:05:12.849 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+13:05:12.850 [main] INFO  com.solvd.itcompany.Runner - 
+David
+13:05:12.850 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+13:05:12.850 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+13:05:12.850 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+13:05:12.850 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+13:05:12.851 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+13:05:12.851 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+13:05:12.851 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+13:05:12.852 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+13:05:12.854 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+13:05:12.854 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+13:05:12.854 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+13:05:12.855 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+13:05:12.855 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+13:05:12.855 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+13:05:12.855 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+13:05:12.855 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 

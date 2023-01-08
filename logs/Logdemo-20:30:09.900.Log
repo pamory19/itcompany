@@ -1,0 +1,27 @@
+20:30:09.895 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:30:09.896 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - logger
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+20:30:09.897 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.898 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+20:30:09.899 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:30:09.900 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+20:30:09.900 [main] INFO  com.solvd.itcompany.Runner - Parameters: 

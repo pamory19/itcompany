@@ -1,0 +1,51 @@
+10:10:10.264 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+10:10:10.269 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+10:10:10.269 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+10:10:10.269 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+10:10:10.271 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:10:10.272 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+10:10:10.272 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+10:10:10.272 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+10:10:10.272 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+10:10:10.272 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:10:10.273 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+Your Team's Credentials: 
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+10:10:10.274 [main] INFO  com.solvd.itcompany.Runner - 
+IOS

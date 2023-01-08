@@ -1,0 +1,30 @@
+21:16:09.007 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+21:16:09.008 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Modifiers: public
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+21:16:09.009 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:16:09.010 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:18:59.116 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+21:18:59.119 [main] INFO  com.solvd.itcompany.Runner - 3
+21:18:59.120 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+21:18:59.120 [main] INFO  com.solvd.itcompany.Runner - 2
+21:18:59.120 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+21:18:59.123 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+21:18:59.123 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+21:18:59.124 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop

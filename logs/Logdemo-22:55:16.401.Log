@@ -1,0 +1,31 @@
+22:54:06.309 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+22:54:06.310 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+22:54:06.310 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+22:54:06.311 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+22:54:06.311 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+22:54:06.311 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+22:54:06.311 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+22:54:06.311 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+22:54:06.311 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+22:54:06.312 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+22:55:16.393 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+22:55:16.397 [main] INFO  com.solvd.itcompany.Runner - 2
+22:55:16.397 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+22:55:16.398 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+22:55:16.398 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+22:55:16.398 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 2500.0
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Name: Dave's Bakery Shop
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the bakery shop
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 10
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 3000.0
+22:55:16.399 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW

@@ -1,0 +1,27 @@
+22:14:51.822 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+22:14:51.822 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+22:14:51.822 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:14:51.823 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.824 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:14:51.825 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:14:51.825 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+22:14:51.825 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:14:51.825 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+22:14:51.825 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList

@@ -1,0 +1,27 @@
+22:02:33.955 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.956 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+22:02:33.956 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Method name: getClients
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.957 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Method name: setClients
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Method name: getProjects
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.958 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.959 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+22:02:33.959 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.959 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:02:33.959 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public

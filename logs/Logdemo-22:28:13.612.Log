@@ -1,0 +1,37 @@
+21:37:52.935 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+22:28:13.593 [main] INFO  com.solvd.itcompany.generics.LinkedListProject - 
+Backlog of projects: 
+New project under development: 
+Client: Paul's Coffee Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 1500.0
+Project Price: 1000.0
+Status of Project: NEW
+22:28:13.600 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Here are the requirements for the application: 
+22:28:13.601 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can order coffee
+22:28:13.601 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can track loyalty points
+22:28:13.601 [main] INFO  com.solvd.itcompany.IFulfillRequirements - Users can interact with community
+22:28:13.601 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+22:28:13.607 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+22:28:13.607 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+22:28:13.608 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+22:28:13.609 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+22:28:13.610 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+22:28:13.610 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.

@@ -1,0 +1,38 @@
+15:20:28.306 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+15:20:28.308 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+15:20:28.308 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing
+15:20:28.308 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Marketing
+15:20:28.308 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+15:20:28.309 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Mid-level Engineers:---------------------
+15:20:28.310 [main] INFO  com.solvd.itcompany.Runner - [com.solvd.itcompany.employees.BackendEngineer@4803b726, com.solvd.itcompany.employees.FrontendEngineer@ffaa6af]
+15:20:28.310 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Tools The Team Uses:---------------------
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [Gantt chart, Communications plan]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [Andromo, BuildFire]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [Java, PHP, JavaScript]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [HTML, CSS, React]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [Swift, Objective-C]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [Java, Maven, Cucumber]
+15:20:28.311 [main] INFO  com.solvd.itcompany.Runner - [organic social media, email promotion, paid social media]
+15:20:28.312 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+15:20:28.312 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+15:20:28.312 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+15:20:28.312 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+15:20:28.312 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+15:20:28.313 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+15:20:28.313 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+15:20:28.313 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron

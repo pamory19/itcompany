@@ -1,0 +1,39 @@
+15:48:20.842 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Next Projects To Do:---------------------
+15:48:20.844 [main] INFO  com.solvd.itcompany.Runner - [New project under development: 
+Client: Kelly's Pet Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 2500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 3000.0
+Project Price: 1000.0
+Status of Project: NEW]
+15:48:20.844 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Reflection:---------------------
+15:48:20.844 [main] INFO  com.solvd.itcompany.Runner - The name of the constructor: com.solvd.itcompany.ITCompany
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - The fields of the class: 
+
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - name
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - employees
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - clients
+15:48:20.845 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - projects
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - logger
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+15:48:20.846 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+15:48:20.847 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+15:48:20.847 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+15:48:20.847 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public

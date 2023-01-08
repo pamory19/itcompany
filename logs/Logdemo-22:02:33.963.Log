@@ -1,0 +1,27 @@
+22:02:33.959 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.960 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.961 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Method name: releaseApp
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+22:02:33.962 [main] INFO  com.solvd.itcompany.Runner - Return Type: void

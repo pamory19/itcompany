@@ -1,0 +1,38 @@
+23:15:25.180 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+23:15:25.181 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+23:15:25.182 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+23:15:25.182 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The backend engineers have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The frontend engineers have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The IOS developers have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+23:15:25.183 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.ProjectManager - The project manager is creating the project plan...
+
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Gantt chart
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Communications plan
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.ProjectManager - 
+The the Project Manager is done managing the application.
+
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.Designer - The designer is creating the design of the application...
+
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.Designer - Andromo
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.Designer - BuildFire
+23:15:25.184 [main] INFO  com.solvd.itcompany.employees.Designer - 
+The the designer is done designing the application.
+

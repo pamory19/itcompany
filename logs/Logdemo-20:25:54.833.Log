@@ -1,0 +1,27 @@
+20:25:54.827 [main] INFO  com.solvd.itcompany.Runner - Method name: setProjects
+20:25:54.828 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.828 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Method name: setEmployees
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.829 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+20:25:54.830 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+20:25:54.831 [main] INFO  com.solvd.itcompany.Runner - Result of method call: 
+20:25:54.833 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 

@@ -1,0 +1,27 @@
+21:55:54.540 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:55:54.540 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:55:54.540 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public final
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Method name: intro
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Method name: assignProject
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.enums.ProjectStatus
+21:55:54.541 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Method name: projectCreated
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner -  com.solvd.itcompany.Project
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner -  java.util.ArrayList
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Method name: releaseApp
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+21:55:54.542 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+21:55:54.543 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+21:55:54.543 [main] INFO  com.solvd.itcompany.Runner - Method name: maintenance
+21:55:54.543 [main] INFO  com.solvd.itcompany.Runner - Parameters: 

@@ -1,0 +1,32 @@
+20:55:46.758 [main] INFO  com.solvd.itcompany.employees.Employee - com.solvd.itcompany.employees.QualityAnalyst@3e11f9e9
+20:55:46.759 [main] INFO  com.solvd.itcompany.employees.Employee - com.solvd.itcompany.employees.MarketingManager@1de5f259
+20:55:46.759 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Team Members Names:---------------------
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Cameron
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Lily
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Tom
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Pam
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Kevin
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: David
+20:55:46.760 [main] INFO  com.solvd.itcompany.employees.Employee - Employee name: Carl
+20:55:46.760 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+List of employees working on the project: 
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Designer: Lily
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Frontend Engineer: Pam
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+IOS Developer: Kevin
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Marketing Manager: Carl
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Backend Engineer: Tom
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Quality Analyst: David
+20:55:46.761 [main] INFO  com.solvd.itcompany.generics.EmployeeHashmap - 
+Project Manager: Cameron
+20:55:46.762 [main] INFO  com.solvd.itcompany.ITCompany - The IT Company has a request to start a project.
+20:55:46.762 [main] INFO  com.solvd.itcompany.ITCompany - 
+The project managers have been added to the project.
+20:55:46.762 [main] INFO  com.solvd.itcompany.ITCompany - 
+The designers have been added to the project.

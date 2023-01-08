@@ -1,0 +1,56 @@
+21:54:48.927 [main] INFO  com.solvd.itcompany.IFulfillRequirements - The IT company has completed reviewing the requirements for the application.
+
+21:54:48.928 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Your Team's Credentials:---------------------
+21:54:48.929 [main] INFO  com.solvd.itcompany.Runner - 
+Cameron
+21:54:48.929 [main] INFO  com.solvd.itcompany.Runner - 
+Manager
+21:54:48.929 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Business Administration
+21:54:48.929 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:54:48.929 [main] INFO  com.solvd.itcompany.Runner - 
+Lily
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Designer
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Graphic Design
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Tom
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Backend
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Computer Science
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Pam
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend
+21:54:48.930 [main] INFO  com.solvd.itcompany.Runner - 
+Frontend Bootcamp
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+MID_LEVEL
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+Kevin
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+IOS
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+Mobile Development Bootcamp
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+SENIOR_LEVEL
+21:54:48.931 [main] INFO  com.solvd.itcompany.Runner - 
+David
+21:54:48.932 [main] INFO  com.solvd.itcompany.Runner - 
+Quality
+21:54:48.932 [main] INFO  com.solvd.itcompany.Runner - 
+Bachelors Degree in Information Technology
+21:54:48.932 [main] INFO  com.solvd.itcompany.Runner - 
+ENTRY_LEVEL
+21:54:48.932 [main] INFO  com.solvd.itcompany.Runner - 
+Carl
+21:54:48.932 [main] INFO  com.solvd.itcompany.Runner - 
+Marketing

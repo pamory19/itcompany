@@ -1,0 +1,34 @@
+21:30:46.201 [main] INFO  com.solvd.itcompany.ITCompany - 
+The quality analysts have been added to the project.
+21:30:46.202 [main] INFO  com.solvd.itcompany.ITCompany - 
+The marketers have been added to the project.
+
+21:30:46.202 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: IN_PROGRESS
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.ProjectManager - The project manager is creating the project plan...
+
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Gantt chart
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.ProjectManager - Communications plan
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.ProjectManager - 
+The the Project Manager is done managing the application.
+
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.Designer - The designer is creating the design of the application...
+
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.Designer - Andromo
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.Designer - BuildFire
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.Designer - 
+The the designer is done designing the application.
+
+21:30:46.203 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - The quality analyst is testing the application...
+
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Java
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Maven
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Cucumber
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - 
+The the Quality Analyst is done testing the application.
+
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.MarketingManager - The marketing manager is creating the promotional plan...
+
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.MarketingManager - organic social media
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.MarketingManager - email promotion
+21:30:46.204 [main] INFO  com.solvd.itcompany.employees.MarketingManager - paid social media

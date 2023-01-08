@@ -1,0 +1,43 @@
+17:51:11.257 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+17:51:11.257 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+17:51:11.258 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------The First Task in Every Project:---------------------
+17:51:11.258 [main] INFO  com.solvd.itcompany.Runner - Create the management plan for the project
+17:51:11.259 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+17:51:11.259 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+17:51:11.259 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+17:51:11.260 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+17:51:11.260 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+17:51:11.260 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+17:51:11.260 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+17:51:11.260 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+17:51:11.260 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+17:51:11.261 [main] INFO  com.solvd.itcompany.Runner - [Horrible user experience.]
+17:51:11.261 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+17:51:11.261 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Next Projects To Do:---------------------
+17:51:11.261 [main] INFO  com.solvd.itcompany.Runner - [New project under development: 
+Client: Kelly's Pet Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 2500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 3000.0
+Project Price: 1000.0
+Status of Project: NEW]
+17:51:11.261 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Reflection:---------------------

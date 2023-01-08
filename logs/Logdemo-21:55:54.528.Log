@@ -1,0 +1,42 @@
+21:55:54.525 [main] INFO  com.solvd.itcompany.employees.Designer - Andromo
+21:55:54.525 [main] INFO  com.solvd.itcompany.employees.Designer - BuildFire
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.Designer - 
+The the designer is done designing the application.
+
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - The quality analyst is testing the application...
+
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Java
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Maven
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - Cucumber
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.QualityAnalyst - 
+The the Quality Analyst is done testing the application.
+
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.MarketingManager - The marketing manager is creating the promotional plan...
+
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.MarketingManager - organic social media
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.MarketingManager - email promotion
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.MarketingManager - paid social media
+21:55:54.526 [main] INFO  com.solvd.itcompany.employees.MarketingManager - 
+The the Marketing Manager is done promoting the application.
+
+21:55:54.527 [main] INFO  com.solvd.itcompany.ITCompany - 
+Status of Project: COMPLETE
+21:55:54.527 [main] INFO  com.solvd.itcompany.generics.ProjectTracker - 
+The projects left in the backlog: [New project under development: 
+Client: Paul's Coffee Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 1500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Kelly's Pet Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 2500.0
+Project Price: 1000.0
+Status of Project: NEW, New project under development: 
+Client: Dave's Bakery Shop
+Project Service: APP_DEVELOPMENT
+Project Budget: 3000.0
+Project Price: 1000.0
+Status of Project: NEW]
+21:55:54.528 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Here are a list of tasks for the project: 

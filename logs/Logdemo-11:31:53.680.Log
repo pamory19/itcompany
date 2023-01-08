@@ -1,0 +1,37 @@
+23:32:55.490 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the backend
+23:32:55.491 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Test the application
+23:32:55.491 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the frontend
+23:32:55.492 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the management plan for the project
+23:32:55.492 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the marketing strategy for the application
+23:32:55.492 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+23:32:55.492 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+23:32:55.493 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+23:32:55.493 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+23:32:55.493 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+23:32:55.493 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+23:32:55.493 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+23:32:55.493 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+23:32:55.494 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+23:32:55.494 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+23:32:55.494 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+11:31:53.669 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+11:31:53.673 [main] INFO  com.solvd.itcompany.Runner - 3
+11:31:53.673 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+11:31:53.674 [main] INFO  com.solvd.itcompany.Runner - 2
+11:31:53.674 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+11:31:53.678 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0

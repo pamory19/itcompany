@@ -1,0 +1,31 @@
+20:54:53.286 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Reflection:---------------------
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - The name of the constructor: com.solvd.itcompany.ITCompany
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - The fields of the class: 
+
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - name
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - employees
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - clients
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:54:53.287 [main] INFO  com.solvd.itcompany.Runner - projects
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - logger
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Field Modifiers: private static final
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.lang.String
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Method name: getName
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:54:53.288 [main] INFO  com.solvd.itcompany.Runner - Return Type: void
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner - Method name: setName
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner - Parameters: 
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner -  java.lang.String
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner - Method Modifiers: public
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner - Return Type: java.util.ArrayList
+20:54:53.289 [main] INFO  com.solvd.itcompany.Runner - Method name: getEmployees

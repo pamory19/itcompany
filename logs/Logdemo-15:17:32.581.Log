@@ -1,0 +1,29 @@
+15:16:40.397 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+15:16:40.398 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+15:16:40.398 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+15:16:40.399 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+15:16:40.399 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+15:16:40.399 [main] INFO  com.solvd.itcompany.Runner - java.util.stream.SliceOps$1@f0da945
+15:16:40.400 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+15:17:32.571 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Number of Projects:---------------------
+15:17:32.574 [main] INFO  com.solvd.itcompany.Runner - 3
+15:17:32.575 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Highest Paying Clients:---------------------
+15:17:32.575 [main] INFO  com.solvd.itcompany.Runner - 2
+15:17:32.575 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Total Project Profits:---------------------
+15:17:32.578 [main] INFO  com.solvd.itcompany.Runner - Total Profit: 7000.0
+15:17:32.578 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Client Information:---------------------
+15:17:32.579 [main] INFO  com.solvd.itcompany.Runner - Client Name: Paul's Coffee Shop
+15:17:32.579 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the coffee shop
+15:17:32.579 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 2
+15:17:32.579 [main] INFO  com.solvd.itcompany.Runner - Client Budget: 1500.0
+15:17:32.580 [main] INFO  com.solvd.itcompany.Runner - Client Project Status: NEW
+15:17:32.580 [main] INFO  com.solvd.itcompany.Runner - Client Name: Kelly's Pet Shop
+15:17:32.580 [main] INFO  com.solvd.itcompany.Runner - Client Idea: create an app for the pet shop
+15:17:32.580 [main] INFO  com.solvd.itcompany.Runner - Years in Business: 5

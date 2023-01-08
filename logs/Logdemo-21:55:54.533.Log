@@ -1,0 +1,38 @@
+21:55:54.528 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the backend
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Test the application
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the frontend
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the management plan for the project
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the marketing strategy for the application
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the design of the application
+21:55:54.529 [main] INFO  com.solvd.itcompany.generics.ListOfTasks - 
+Create the mobile application
+21:55:54.530 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------The First Task in Every Project:---------------------
+21:55:54.530 [main] INFO  com.solvd.itcompany.Runner - Create the management plan for the project
+21:55:54.531 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project1
+21:55:54.531 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project2
+21:55:54.531 [main] INFO  com.solvd.itcompany.generics.ProjectPriority - 
+Project3
+21:55:54.531 [main] INFO  com.solvd.itcompany.ITCompany - Here is the user feedback we've received so far: 
+21:55:54.532 [main] INFO  com.solvd.itcompany.ITCompany - Great app!
+21:55:54.532 [main] INFO  com.solvd.itcompany.ITCompany - Horrible user experience.
+21:55:54.532 [main] INFO  com.solvd.itcompany.ITCompany - I order coffee on this app all the time!
+21:55:54.532 [main] INFO  com.solvd.itcompany.ITCompany - 
+The application has been released.
+21:55:54.532 [main] INFO  com.solvd.itcompany.Runner - 
+---------------------Bad Reviews:---------------------
+21:55:54.533 [main] INFO  com.solvd.itcompany.Runner - [Horrible user experience.]
+21:55:54.533 [main] INFO  com.solvd.itcompany.ITCompany - 
+While the application is completed the engineering team will continuously maintain the application.
+21:55:54.533 [main] INFO  com.solvd.itcompany.Runner - 
+
+
+---------------------Next Projects To Do:---------------------

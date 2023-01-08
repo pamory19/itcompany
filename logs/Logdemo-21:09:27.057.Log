@@ -1,0 +1,32 @@
+20:46:56.503 [main] INFO  com.solvd.itcompany.Runner - name
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - employees
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - clients
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - projects
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - projectStatus
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - logger
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - The name of the constructor: com.solvd.itcompany.ITCompany
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - The public methods of the class: 
+
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - getName
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - setName
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - getClients
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - setClients
+20:46:56.504 [main] INFO  com.solvd.itcompany.Runner - getProjects
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - setProjects
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - getEmployees
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - setEmployees
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - intro
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - assignProject
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - projectCreated
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - releaseApp
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - maintenance
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - getProjectStatus
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - equals
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - toString
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - hashCode
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - getClass
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - notify
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - notifyAll
+20:46:56.505 [main] INFO  com.solvd.itcompany.Runner - wait
+20:46:56.506 [main] INFO  com.solvd.itcompany.Runner - wait
+20:46:56.506 [main] INFO  com.solvd.itcompany.Runner - wait
