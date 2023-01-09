@@ -10,9 +10,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.RejectedExecutionException;
 
-public class ThreadAndRunnableDemo {
+public class ConnectionPoolDemo {
 
-    private static final Logger logger = LogManager.getLogger(ThreadAndRunnableDemo.class);
+    private static final Logger logger = LogManager.getLogger(ConnectionPoolDemo.class);
 
     public static void main(String[] args) throws SQLException, ClassNotFoundException, InvocationTargetException, IllegalAccessException, InstantiationException, NoSuchMethodException {
 

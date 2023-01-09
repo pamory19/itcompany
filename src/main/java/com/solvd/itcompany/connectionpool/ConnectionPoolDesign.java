@@ -7,7 +7,7 @@ import java.util.*;
 import java.sql.Connection;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class ConnectionPoolDesign implements ConnectionPool {
+public class ConnectionPoolDesign {
     private Driver driver;
     private String url;
     private String username;
@@ -30,7 +30,6 @@ public class ConnectionPoolDesign implements ConnectionPool {
     }
 
 
-    @Override
     public synchronized Connection getConnection() throws SQLException, ClassNotFoundException {
         // check if the connection pool is empty
         if (connections.isEmpty()){
@@ -41,7 +40,6 @@ public class ConnectionPoolDesign implements ConnectionPool {
         return connections.poll();
     }
 
-    @Override
     public Connection getConnection(long timeout) throws SQLException, InterruptedException, ClassNotFoundException {
         Connection connection = null;
         long startTime = System.currentTimeMillis();
