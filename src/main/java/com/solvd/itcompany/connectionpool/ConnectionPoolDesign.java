@@ -3,20 +3,19 @@ package com.solvd.itcompany.connectionpool;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.sql.*;
-import java.util.*;
 import java.sql.Connection;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class ConnectionPoolDesign {
-    private Driver driver;
     private String url;
     private String username;
     private String password;
     private int maximumPoolSize;
     private ConcurrentLinkedQueue<Connection> connections;
+    private static volatile ConnectionPoolDesign connectionPool = null;
 
 
-    public ConnectionPoolDesign(String driverClassName, String url, String username, String password, int maximumPoolSize) throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException, SQLException {
+    private ConnectionPoolDesign(String driverClassName, String url, String username, String password, int maximumPoolSize) throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException, SQLException {
         Class<?> driverClass = Class.forName(driverClassName);
         Constructor<?> constructor = driverClass.getDeclaredConstructor();
         Driver driver = (Driver) constructor.newInstance();
@@ -27,6 +26,17 @@ public class ConnectionPoolDesign {
         this.password = password;
         this.maximumPoolSize = maximumPoolSize;
         this.connections = new ConcurrentLinkedQueue<>();
+    }
+
+    public static ConnectionPoolDesign getInstance() throws SQLException, ClassNotFoundException, InvocationTargetException, IllegalAccessException, InstantiationException, NoSuchMethodException {
+        if (connectionPool == null){
+            synchronized (ConnectionPoolDesign.class){
+                if (connectionPool == null){
+                    connectionPool = new ConnectionPoolDesign("com.mysql.cj.jdbc.Driver", "jdbc:mysql://localhost:3306/database_name", "username", "password", 5);
+                }
+            }
+        }
+        return connectionPool;
     }
 
 
@@ -47,7 +57,7 @@ public class ConnectionPoolDesign {
             connection = connections.poll();
             if (connection == null){
                 if (connections.size() == maximumPoolSize){
-                    synchronized (this){
+                    synchronized (ConnectionPoolDesign.class){
                         wait(timeout - (System.currentTimeMillis() - startTime));
                     }
                 }
@@ -73,58 +83,11 @@ public class ConnectionPoolDesign {
     }
 
     public void releaseConnection(Connection connection){
-        synchronized (this){
+        synchronized (ConnectionPoolDesign.class){
             connections.offer(connection);
             this.notifyAll();
         }
     }
 
-    public String getUrl() {
-        return url;
-    }
-
-    public void setUrl(String url) {
-        this.url = url;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String user) {
-        this.username = username;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
-    public int getMaximumPoolSize() {
-        return maximumPoolSize;
-    }
-
-    public void setMaximumPoolSize(int maximumPoolSize) {
-        this.maximumPoolSize = maximumPoolSize;
-    }
-
-    public Queue<Connection> getConnections() {
-        return connections;
-    }
-
-    public void setConnections(ConcurrentLinkedQueue<Connection> connections) {
-        this.connections = connections;
-    }
-
-    public Driver getDriver() {
-        return driver;
-    }
-
-    public void setDriver(Driver driver) {
-        this.driver = driver;
-    }
 
 }
