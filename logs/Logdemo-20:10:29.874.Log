@@ -1,4 +1,4 @@
-20:10:10.855 [pool-3-thread-1] ERROR com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo - Error in task execution: 
+20:10:10.855 [pool-3-thread-1] ERROR com.solvd.itcompany.connectionpool.ConnectionPoolDemo - Error in task execution:
 com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -12,7 +12,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 	at java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.createConnection(ConnectionPoolDesign.java:74) ~[classes/:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.getConnection(ConnectionPoolDesign.java:38) ~[classes/:?]
-	at com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo.lambda$main$0(ThreadAndRunnableDemo.java:32) ~[classes/:?]
+	at com.solvd.itcompany.connectionpool.ConnectionPoolDemo.lambda$main$0(ThreadAndRunnableDemo.java:32) ~[classes/:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
@@ -46,7 +46,7 @@ Caused by: java.net.ConnectException: Connection refused
 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948) ~[mysql-connector-j-8.0.31.jar:8.0.31]
 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818) ~[mysql-connector-j-8.0.31.jar:8.0.31]
 	... 13 more
-20:10:10.857 [pool-3-thread-6] ERROR com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo - Error in task execution: 
+20:10:10.857 [pool-3-thread-6] ERROR com.solvd.itcompany.connectionpool.ConnectionPoolDemo - Error in task execution:
 com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -60,7 +60,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 	at java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.createConnection(ConnectionPoolDesign.java:74) ~[classes/:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.getConnection(ConnectionPoolDesign.java:38) ~[classes/:?]
-	at com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo.lambda$main$0(ThreadAndRunnableDemo.java:32) ~[classes/:?]
+	at com.solvd.itcompany.connectionpool.ConnectionPoolDemo.lambda$main$0(ThreadAndRunnableDemo.java:32) ~[classes/:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]

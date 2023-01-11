@@ -1,4 +1,4 @@
-21:15:49.259 [pool-2-thread-6] ERROR com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo - Error in task execution: 
+21:15:49.259 [pool-2-thread-6] ERROR com.solvd.itcompany.connectionpool.ConnectionPoolDemo - Error in task execution:
 com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -12,7 +12,7 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 	at java.sql.DriverManager.getConnection(DriverManager.java:230) ~[java.sql:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.createConnection(ConnectionPoolDesign.java:74) ~[classes/:?]
 	at com.solvd.itcompany.connectionpool.ConnectionPoolDesign.getConnection(ConnectionPoolDesign.java:38) ~[classes/:?]
-	at com.solvd.itcompany.connectionpool.ThreadAndRunnableDemo.lambda$main$0(ThreadAndRunnableDemo.java:31) ~[classes/:?]
+	at com.solvd.itcompany.connectionpool.ConnectionPoolDemo.lambda$main$0(ThreadAndRunnableDemo.java:31) ~[classes/:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
